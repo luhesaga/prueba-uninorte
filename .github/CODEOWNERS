@@ -1,3 +1,4 @@
 backend/ @luhesaga
 frontend/ @RDMartinez1417
 *.js @RDMartinez1417
+*.html @oscarlonza
